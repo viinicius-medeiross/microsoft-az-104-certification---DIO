@@ -43,7 +43,6 @@ Os tópicos estão organizados em arquivos Markdown (`.md`) para facilitar a nav
 * `04-Alta-Disponibilidade-e-Escalabilidade.md`: Estratégias para garantir que as VMs estejam sempre disponíveis e possam lidar com a demanda. 🔄
 * `05-Gerenciamento-e-Monitoramento.md`: Ferramentas para monitorar e proteger seus dados. 🔍
 * `06-Troubleshooting-Dicas.md`: Resolução de problemas comuns e dicas úteis. 💡
-* `images/`: Pasta para armazenar capturas de tela relevantes que ilustram os conceitos e processos. 📸
 
 ---
 
