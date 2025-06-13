@@ -38,7 +38,7 @@ Este material explora e documenta os seguintes serviços e conceitos do Azure re
 Os tópicos estão organizados em arquivos Markdown (`.md`) para facilitar a navegação e o entendimento:
 
 * [`01-Conceitos-Basicos-Azure.md`](https://github.com/viinicius-medeiross/microsoft-az-104-certification---DIO/blob/main/01-Conceitos-Basicos-Azure.md): Introdução ao Azure e o papel das VMs. 📖
-* [`02-Criacao-e-Configuracao-VMs.md](https://github.com/viinicius-medeiross/microsoft-az-104-certification---DIO/blob/main/02-Criacao-e-Configuracao-VMs.md)`: Detalhes sobre a criação e gerenciamento inicial de VMs. ✨
+* [`02-Criacao-e-Configuracao-VMs.md`](https://github.com/viinicius-medeiross/microsoft-az-104-certification---DIO/blob/main/02-Criacao-e-Configuracao-VMs.md): Detalhes sobre a criação e gerenciamento inicial de VMs. ✨
 * [`03-Redes-e-Seguranca-VMs.md`](https://github.com/viinicius-medeiross/microsoft-az-104-certification---DIO/blob/main/03-Redes-e-Seguranca-VMs.md): Configurações de rede, NSGs e acesso seguro. 🔐
 * [`04-Alta-Disponibilidade-e-Escalabilidade.md`](https://github.com/viinicius-medeiross/microsoft-az-104-certification---DIO/blob/main/04-Alta-Disponibilidade-e-Escalabilidade.md): Estratégias para garantir que as VMs estejam sempre disponíveis e possam lidar com a demanda. 🔄
 * [`05-Gerenciamento-e-Monitoramento.md`](https://github.com/viinicius-medeiross/microsoft-az-104-certification---DIO/blob/main/05-Gerenciamento-e-Monitoramento.md): Ferramentas para monitorar e proteger seus dados. 🔍
